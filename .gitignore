@@ -1,0 +1,6 @@
+# binaries
+*.exe
+tasker
+
+# local data
+tasks.json
