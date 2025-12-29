@@ -1,6 +1,13 @@
 # binaries
 *.exe
-tasker
+*.out
+*.dll
 
-# local data
+# task data
 tasks.json
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
